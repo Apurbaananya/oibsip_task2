@@ -16,3 +16,5 @@ The primary goal of this project is to conduct a comprehensive analysis of unemp
 - **Recommendations:** Provide actionable insights and recommendations to guide policy-making, labor market interventions, and economic recovery strategies.
 
 This project is crucial for policymakers, governments, and organizations to address unemployment challenges, understand their causes, and promote economic recovery and well-being within the labor force.
+
+## Project Summary
