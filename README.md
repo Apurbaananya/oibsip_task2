@@ -47,3 +47,5 @@ In this data science project, we conducted a comprehensive analysis of the unemp
 6. **Correlation Analysis:** We found a robust negative correlation between the Estimated Unemployment Rate and Estimated Employed Workforce, highlighting the intricate relationship between these two crucial employment indicators, both before and during the lockdown.
 
 This project not only provided valuable insights into the economic impact of the COVID-19 pandemic but also demonstrated the power of data science in understanding and addressing complex socio-economic challenges. The findings contribute to informed decision-making and policy formulation, emphasizing the importance of data-driven approaches in mitigating the effects of future crises.
+
+## Reference
