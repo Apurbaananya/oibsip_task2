@@ -49,3 +49,4 @@ In this data science project, we conducted a comprehensive analysis of the unemp
 This project not only provided valuable insights into the economic impact of the COVID-19 pandemic but also demonstrated the power of data science in understanding and addressing complex socio-economic challenges. The findings contribute to informed decision-making and policy formulation, emphasizing the importance of data-driven approaches in mitigating the effects of future crises.
 
 ## Reference
+[Oasis Infobyte](https://oasisinfobyte.com/)
